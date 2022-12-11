@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "laptop",
+      "description": "laptop gaming",
+      "price": 1000,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "mouse",
+      "description": "mouse gaming",
+      "price": 100,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "keyboard",
+      "description": "keyboard gaming",
+      "price": 50,
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "cooler",
+      "description": "cooler gaming",
+      "price": 80,
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "name": "monitor",
+      "description": "monitor LG",
+      "price": 450,
+      "inStock": true
+    }
+  ]
+}
